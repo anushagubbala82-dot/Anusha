@@ -1,2 +1,2 @@
 # Anusha
-Lerining Github with Devops
+Learning Github with Devops
